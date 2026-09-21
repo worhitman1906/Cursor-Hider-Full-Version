@@ -240,4 +240,4 @@ This repository serves as the official landing page for Cursor Hider. The softwa
 **Get the most recent version of Cursor Hider today!**
 
 ---
-**Last updated:** 2026-09-21 03:50:00 UTC
+**Last updated:** 2026-09-21 09:43:07 UTC
